@@ -1,0 +1,31 @@
+{
+  "validData" :[{
+        "username": "testUser",
+        "password": "testPassword",
+        "firstname": "Test",
+        "middlename": "Middle",
+        "lastname": "Last"
+    },
+    {
+        "username": "testUser1",
+        "password": "TestPassword",
+        "firstname": "Test1",
+        "middlename": "Middle1",
+        "lastname": "Last1"
+    }]
+    ,
+  "InvalidData" :[{ 
+        "username": "testUser2",
+        "password": "testPassword2",
+        "firstname": "Test2",
+        "middlename": "Middle2",
+        "lastname": "Last2"
+    },
+    {
+        "username": "testUser3",
+        "password": "TestPasswo",
+        "firstname": "Test3",
+        "middlename": "Middle3",
+        "lastname": "Last3"
+    }]
+}
