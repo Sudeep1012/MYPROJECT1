@@ -12,6 +12,8 @@ test("Home Page Smoke Test", async ({page}) => {
     //  await accountAdminpage.adminSmokeTest();    
     // await accountAdminpage.adminAddNewFunctionalityTest();
       await accountAdminpage.adminTableTest();
+      console.log("okk");
+      
    });
 
    
